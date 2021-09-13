@@ -2,7 +2,7 @@
 
 * [OragonX](README.md)
 * [OragonX Tokenomics](oragonx-tokenomics.md)
-* [Oragon X Game Play](oragon-x-game-play.md)
+* [Oragon X Gameplay](oragon-x-game-play.md)
 * [The Game Requirement for OragonX](the-game-requirement-for-oragonx.md)
 * [Road Map](road-map.md)
 * [The Team OragonX](the-team-oragonx.md)

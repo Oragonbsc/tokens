@@ -1,4 +1,4 @@
-# Oragon X Game Play
+# Oragon X Gameplay
 
 Will Update Soon
 
