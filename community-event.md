@@ -1,3 +1,3 @@
 # Community Event
 
-Please Join our Official for details
+for more info please join our official group
