@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Vision & Mission](vision-and-mission.md)
 * [Changelog](changelog.md)
-* [Meet The Team](the-team-oragonx.md)
+* [The Team](the-team-oragonx.md)
 * [Lore](lore/README.md)
   * [Dragon lore](lore/dragon-lore/README.md)
     * [Meru](lore/dragon-lore/meru.md)
