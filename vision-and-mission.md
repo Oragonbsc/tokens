@@ -10,6 +10,6 @@ Let’s join together and welcome the future!
 
 
 
-1. build a blockchain-based gaming ecosystem and NFT
+1. Build a blockchain-based gaming ecosystem and NFT
 2. To open an opportunity to increase the communities’ income
 3. To educate the public about blockchain technology in a fun and profitable way.
