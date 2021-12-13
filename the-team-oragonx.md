@@ -1,7 +1,7 @@
 ---
-description: Featuring oragonx developer representative
+description: Featuring developer representative
 ---
 
-# Meet The Team
+# The Team
 
 \*This page will be updated soon
