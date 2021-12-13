@@ -37,7 +37,7 @@ OragonX token ($ORGN) is the token that runs and uses the BEP-20 network. This t
 
 **Data taken from 2021.8**&#x20;
 
-* For more update info, please refer to BSCSCAN (link provided below)
+* For the latest information, please refer to BSCSCAN (link provided below)
 
 [https://bscscan.com/token/0x88c676fc777c225b69869aeef5d10535de1e4f5d#balances](https://bscscan.com/token/0x88c676fc777c225b69869aeef5d10535de1e4f5d#balances)​
 
