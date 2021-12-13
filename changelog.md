@@ -13,3 +13,4 @@ description: >-
 **Version**: 2021.11
 
 * Updating the dxsale link according to the addition of LP in November
+* Adding new page for next update
