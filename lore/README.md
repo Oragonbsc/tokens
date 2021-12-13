@@ -1,3 +1,3 @@
-# Meet The Team
+# Lore
 
 \*This page will be updated soon

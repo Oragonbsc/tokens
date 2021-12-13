@@ -1,3 +1,3 @@
-# Meet The Team
+# Dragon lore
 
 \*This page will be updated soon

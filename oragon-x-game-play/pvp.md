@@ -1,3 +1,3 @@
-# Meet The Team
+# PVP
 
 \*This page will be updated soon

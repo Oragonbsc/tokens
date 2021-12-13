@@ -1,3 +1,3 @@
-# Meet The Team
+# Gacha
 
 \*This page will be updated soon

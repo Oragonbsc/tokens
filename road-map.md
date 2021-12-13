@@ -1,6 +1,6 @@
 # Road Map
 
-The team has a roadmap for their 2021 target to ensure the project runs well. 
+The team has a roadmap for their 2021 target to ensure the project runs well.&#x20;
 
 ## 2021 Q1:
 
@@ -30,13 +30,9 @@ The team has a roadmap for their 2021 target to ensure the project runs well.
 
 ## 2021 Q3
 
-·         Website Update 
+·         Website Update&#x20;
 
 ·         Whitepaper ✔
-
-·         CoinGecko Listing
-
-·         Coin Market Listing
 
 ·          Prep - Development OragonX Game ✔
 
@@ -46,7 +42,6 @@ The team has a roadmap for their 2021 target to ensure the project runs well.
 
 ·         Cex Exchange
 
-·         Launching OragonX Game\(Beta Test\) Update Roadmap for 2022
+·         Launching OragonX Game(Beta Test) Update Roadmap for 2022
 
 ·         Update Road Map for 2022
-

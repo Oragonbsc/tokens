@@ -1,3 +1,3 @@
-# Meet The Team
+# Guild
 
 \*This page will be updated soon

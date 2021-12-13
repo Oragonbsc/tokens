@@ -1,8 +1,8 @@
 ---
 description: >-
   The whitepaper provides comprehensive information about OragonX, including
-  Tokenomics and upcoming game ecosystem. It also shows additional information
-  for future investor and player
+  Tokenomics and upcoming game ecosystem. It also shows additional required
+  information for future investor and player
 ---
 
 # Introduction
@@ -37,7 +37,7 @@ OragonX token ($ORGN) is the token that runs and uses the BEP-20 network. This t
 
 **Data taken from 2021.8**&#x20;
 
-* For more update info, please refer to BSCSCAN (link provided below
+* For more update info, please refer to BSCSCAN (link provided below)
 
 [https://bscscan.com/token/0x88c676fc777c225b69869aeef5d10535de1e4f5d#balances](https://bscscan.com/token/0x88c676fc777c225b69869aeef5d10535de1e4f5d#balances)​
 
@@ -47,7 +47,9 @@ Circulating: the tokens that are circulated and owned by the holders. The holder
 
 Marketing wallet: consist of supply that will be used to fill the liquidity for exchange listing&#x20;
 
-\*
+\*New DXsale link for LP lock&#x20;
+
+[https://dxsale.app/app/v3/dxlockview?id=0\&add=0x3f719DDCDB386eF2c4E2c5f24DB2DAe61187C894\&type=lplock\&chain=BSC](https://dxsale.app/app/v3/dxlockview?id=0\&add=0x3f719DDCDB386eF2c4E2c5f24DB2DAe61187C894\&type=lplock\&chain=BSC)
 
 ## Buy and Sell Tax <a href="#buy-and-sell-tax" id="buy-and-sell-tax"></a>
 
@@ -57,5 +59,5 @@ To support the ecosystem development, each of the transaction of buy and sell wi
 * 6% is allocated for buyback and burn. The team will buy back the token then burn it to the burn address. The team always gives updates whenever do the buyback and burn activities.
 * 4% is allocated for marketing, to support OragonX in youtube, instagram, twitter and other media.
 
-· \* always use 13% - 20% slippage to ensure buy and sell activities run smoothly.
+· \* always use \~12% slippage to ensure buy and sell activities run smoothly.
 

@@ -1,8 +1,8 @@
-# Our Community
+# Official Community & Social Media
 
 Global Group              : [https://t.me/OragonXofficial](https://t.me/OragonXofficial)
 
-Indonesia Group         : [https://t.me/ORAGON\_INDO](https://t.me/ORAGON_INDO)
+Indonesia Group         : [https://t.me/ORAGON\_INDO](https://t.me/ORAGON\_INDO)
 
 Malaysia Group          : [https://t.me/OragonMalaysia](https://t.me/OragonMalaysia)
 
@@ -16,3 +16,12 @@ Turkey Group             : [https://t.me/OragonXTurkey](https://t.me/OragonXTurk
 
 USA Group                 : [https://t.me/oragonxusa](https://t.me/oragonxusa)
 
+
+
+Twitter            :[ https://twitter.com/OragonXBsc](https://twitter.com/OragonXBsc)
+
+Instagram        :[ https://instagram.com/oragonx\_official?utm\_medium=copy\_link](https://instagram.com/oragonx\_official)
+
+Facebook         :[ http://facebook.com/Oragon-Official-114163164242795/](http://facebook.com/Oragon-Official-114163164242795/)
+
+Tiktok             :[ http://vt.tiktok.com/ZSJgrNUWg/](http://vt.tiktok.com/ZSJgrNUWg/)

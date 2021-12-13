@@ -1,3 +1,3 @@
-# Meet The Team
+# Feature
 
 \*This page will be updated soon
