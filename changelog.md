@@ -14,3 +14,7 @@ description: >-
 
 * Updating the dxsale link according to the addition of LP in November
 * Adding new page for next update
+
+**Version**: 2021.12
+
+* Updated lore page correspond to new released teaser trailer
