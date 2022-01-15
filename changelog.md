@@ -19,3 +19,7 @@ description: >-
 
 * Updated lore page correspond to new released teaser trailer
 * Updated dragon lore and description
+
+**Version**: 2022.01
+
+* Marketplace Maintenance due to high traffic&#x20;
