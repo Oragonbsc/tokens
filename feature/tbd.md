@@ -1,6 +1,15 @@
 ---
-description: Each dragon has a developmental phase that enhances their abilities
+description: Combine two dragons into one more fierceful dragon
 ---
 
-# TBD
+# Fusion Dragon
 
+![Fusion create new drago with changes in appereance and power](../.gitbook/assets/image.png)
+
+\*Fusion can only be done by merging two dragons into one new dragon
+
+To perform fusion, special requirements are required, including:
+
+* DNA mixer
+* two dragon with different element
+* fusion material reach a certain level
