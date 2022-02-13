@@ -4,7 +4,7 @@ description: Combine two dragons into one more fierceful dragon
 
 # Fusion Dragon
 
-![Fusion create new drago with changes in appereance and power](../.gitbook/assets/image.png)
+![Fusion create new dragon with changes in appereance and power](../.gitbook/assets/image.png)
 
 \*Fusion can only be done by merging two dragons into one new dragon
 
