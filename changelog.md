@@ -1,7 +1,7 @@
 ---
 description: >-
   A log or record of all notable changes made to a project changelog is provided
-  to make it easier to read timestamp changes
+  to make it easier to read with timestamp changes
 ---
 
 # Changelog
@@ -23,3 +23,9 @@ description: >-
 **Version**: 2022.01
 
 * Marketplace Maintenance due to high traffic&#x20;
+
+**Version**: 2022.02
+
+* Updated earning mechanism and newest tokenomics data
+* Adding new page to Feature
+* Update new roadmap for 2022

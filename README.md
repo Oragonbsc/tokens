@@ -30,12 +30,13 @@ OragonX token ($ORGN) is the token that runs and uses the BEP-20 network. This t
 
 | Allocation       | Token Quantity         | In percentage |
 | ---------------- | ---------------------- | ------------- |
-| Burn             | 473.848.550.447.012,77 | 47,38%        |
+| Burn             | 482,851,172,543,143    | 48.28%        |
 | Circulating      | 446.700.000.000.000,00 | 44,74%        |
-| Marketing Wallet | 60.164.665.717.336,03  | 6.01%         |
-| Panckake Swap    | 18.688.907.978.572,88  | 1.87%         |
+| Marketing Wallet | 64,534,292,886,077.28  | 6.45%         |
+| Pancake Swap     | 15,362,641,864,736.46  | 1.53%         |
+| Hotbit           | 7,294,192,869,046.99   | 0.73%         |
 
-**Data taken from 2021.8**&#x20;
+**Data taken from 2022.2**&#x20;
 
 * For the latest information, please refer to BSCSCAN (link provided below)
 
