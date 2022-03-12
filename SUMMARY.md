@@ -3,7 +3,6 @@
 * [Introduction](README.md)
 * [Vision & Mission](vision-and-mission.md)
 * [Audit Report](audit-report.md)
-* [The Team](the-team-oragonx.md)
 * [Lore](lore/README.md)
   * [Dragon lore](lore/dragon-lore/README.md)
     * [Meru](lore/dragon-lore/meru.md)
