@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Vision & Mission](vision-and-mission.md)
+* [A word from our leader](a-word-from-our-leader.md)
 * [Audit Report](audit-report.md)
 * [Lore](lore/README.md)
   * [Dragon lore](lore/dragon-lore/README.md)
