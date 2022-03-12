@@ -27,3 +27,4 @@
 * [Official Community & Social Media](our-community.md)
 * [Changelog](changelog.md)
 * [Game Changelog](game-changelog.md)
+* [Need Assistance ?](need-assistance.md)
