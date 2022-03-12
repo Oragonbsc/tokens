@@ -2,7 +2,7 @@
 
 Global Group              : [https://t.me/OragonXofficial](https://t.me/OragonXofficial)
 
-Indonesia Group         : [https://t.me/ORAGON\_INDO](https://t.me/ORAGON\_INDO)
+Indonesia Group         : [https://t.me/Oragonx\_indo](https://t.me/Oragonx\_indo)
 
 Malaysia Group          : [https://t.me/OragonMalaysia](https://t.me/OragonMalaysia)
 

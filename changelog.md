@@ -29,3 +29,8 @@ description: >-
 * Updated earning mechanism and newest tokenomics data
 * Adding new page to Feature
 * Update new roadmap for 2022
+
+**Version**: 2022.03
+
+* Update Gacha subsection
+* Delete unnecessary subsections, To be determined subject will be updated later
