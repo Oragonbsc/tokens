@@ -23,7 +23,6 @@
 * [Earning Mechanism](earning-mechanism/README.md)
   * [Source of revenue](earning-mechanism/source-of-revenue.md)
 * [Road Map](road-map.md)
-* [Community Event](community-event.md)
 * [Official Community & Social Media](our-community.md)
 * [Changelog](changelog.md)
 * [Game Changelog](game-changelog.md)
