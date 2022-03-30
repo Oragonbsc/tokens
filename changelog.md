@@ -34,3 +34,7 @@ description: >-
 
 * Update Gacha subsection
 * Delete unnecessary subsections, To be determined subject will be updated later
+
+**Version**: 2022.04
+
+* Provided brief dragon stat, lore and usable item during phase 1 game launch

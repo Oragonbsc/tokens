@@ -17,3 +17,8 @@ Solved issue and bug during beta test #1 report updated in real time
 * fixed spawn issue in battle
 * fixed item data failed to reach game server
 * various improvement to ensure connection
+
+Solved issue and bug after official launch of 28 March 2022
+
+* Incubator timer doesnt respond to egg hatching
+* Login issue due to user has two registered account using same wallet
