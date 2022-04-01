@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Introduction](README.md)
+  * [Privacy Policy](master/privacy-policy.md)
+  * [EULA](master/eula.md)
 * [Vision & Mission](vision-and-mission.md)
 * [A word from our leader](a-word-from-our-leader.md)
 * [Audit Report](audit-report.md)
