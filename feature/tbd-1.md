@@ -4,7 +4,7 @@ description: Each dragon has a developmental phase that enhances their abilities
 
 # Dragon Evolution
 
-![Meru evolution ](<../.gitbook/assets/image (4).png>)
+![Meru evolution ](<../.gitbook/assets/image (4) (1).png>)
 
 Each stage of development will be divided into 4 stages:&#x20;
 

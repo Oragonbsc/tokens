@@ -7,9 +7,7 @@ description: >-
 
 # Introduction
 
-![OragonX Logo](https://files.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MjSFrP\_8Eolach2OJ02%2F-MjSLNdBLEf8maeN1FoF%2F-MjSLzZrJckCxHwrLxjn%2Foragonlnew200.png?alt=media\&token=2c4a40eb-a2c2-4637-8a7b-4a88b3c68a10)
-
-### Oragon X
+![](.gitbook/assets/image.png)
 
 OragonX is a Fantasy Game platform project that uses the NFT system, in which every player will be able to earn income  by developing their own gameplay and contributing to the ecosystem. In the OragonX game, each player will be able to do breeding to boost up the dragon, raise, fight, and get items that can be used to improve the dragon’s ability.
 
